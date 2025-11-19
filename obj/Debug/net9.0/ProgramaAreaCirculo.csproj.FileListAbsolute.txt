@@ -1,0 +1,15 @@
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\bin\Debug\net9.0\ProgramaAreaCirculo.exe
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\bin\Debug\net9.0\ProgramaAreaCirculo.deps.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\bin\Debug\net9.0\ProgramaAreaCirculo.runtimeconfig.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\bin\Debug\net9.0\ProgramaAreaCirculo.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\bin\Debug\net9.0\ProgramaAreaCirculo.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.AssemblyInfo.cs
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.sourcelink.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\refint\ProgramaAreaCirculo.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ProgramaAreaCirculo.genruntimeconfig.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ProgramaAreaCirculo\ProgramaAreaCirculo\obj\Debug\net9.0\ref\ProgramaAreaCirculo.dll
